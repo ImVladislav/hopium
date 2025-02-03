@@ -1,5 +1,5 @@
 function copyToClipboard() {
-    const textToCopy = "3vgopg7xm3EWkXfxmWPUpcf7g939hecfqg18sLuXDzVt"; 
+    const textToCopy = "MeZq2GZrV3dvzQckgUBdRDGwBgeAdpNQR54DoaEhope"; 
 
     navigator.clipboard.writeText(textToCopy).then(() => {
         alert("Address copied to clipboard: " + textToCopy);
