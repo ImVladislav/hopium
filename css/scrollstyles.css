@@ -30,7 +30,7 @@
     font-size: 2rem; /* Text size */
     color: #000; /* Black text color */
     line-height: 55px; /* Center text vertically */
-    animation: scroll-horizontal 30s linear infinite; /* Seamless infinite scroll */
+    animation: scroll-horizontal 120s linear infinite; /* Seamless infinite scroll */
 }
 
 /* Keyframes for text scrolling */
